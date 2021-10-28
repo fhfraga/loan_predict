@@ -67,7 +67,7 @@ Por último foi testado o modelo com dados de validação onde o mesmo retornou 
   <figcaption>Figura 6. Previsão do modelo com dados de validação.</figcaption>
 </figure>
 
-o notebook com todas as etapas está [aqui]()
+o notebook com todas as etapas está [aqui](https://github.com/fhfraga/loan_predict/blob/master/previsao_emprestimo.ipynb)
 
 ## Conclusão
 Conclui-se com esse projeto que a automatização ajudará o CEO da Empréstimo Fácil S.A a ter um maior acerto na hora de dar o empréstimo.
