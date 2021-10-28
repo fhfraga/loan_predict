@@ -1,7 +1,7 @@
 # Projeto de classificação de empréstimo
 
 <figure>
-  <img src="./imagens/emprestimo1.jpg " alt="Figura 1" />
+  <img src="./Imagens/emprestimo.jpg " alt="Figura 1" />
 </figure>
 
 ## Observações
@@ -29,23 +29,23 @@ Esse projeto começou com a obtenção dos dados, uma breve análise para poder 
 Com as hipóteses prontas, foi feita a análise exploratória dos dados em 3 partes: Na primeira, com anaĺise univariada, como pode ser visto na Figura 1 e Figura 2. Em segundo momento com análise bivariada, como pode ser visto na Figura 3 e por último com a análise multivariada, como pode ser visto na Figura 4
 
 <figure>
-  <img src="/assets/images/emprestimo1.png " alt="Figura 1" />
+  <img src="./Imagens/emprestimo1.png " alt="Figura 1" />
   <figcaption>Figura 1. Análise univariada da variável resposta do projeto.</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/images/emprestimo2.png " alt="Figura 2" />
+  <img src="./Imagens/emprestimo2.png " alt="Figura 2" />
   <figcaption>Figura 2. Análise univariada das variáveis categóricas.</figcaption>
 </figure>
 
 <figure>
-  <img src="/assets/images/emprestimo3.png " alt="Figura 3" />
+  <img src="./Imagens/emprestimo3.png " alt="Figura 3" />
   <figcaption>Figura 3. Análise bivariada avaliando se ensino superior é um fator relevante para conseguir o empréstimo.</figcaption>
 </figure>
 
 
 <figure>
-  <img src="/assets/images/emprestimo4.png " alt="Figura 3" />
+  <img src="./Imagens/emprestimo4.png " alt="Figura 3" />
   <figcaption>Figura 4. Análise multivariada das variáveis categóricas.</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Com as hipóteses prontas, foi feita a análise exploratória dos dados em 3 par
 Depois de verificar diferentes hipóteses entramos na preparação dos dados para criação dos modelos de machine learning. O modelo escolhido foi o de regressão logística, que é um modelo de classificação Com as etapas anteriores chegamos a um modelo final de regressão logística que nos deu previsões como na Figura 5.
 
 <figure>
-  <img src="/assets/images/emprestimo5.png " alt="Figura 1" />
+  <img src="./Imagens/emprestimo5.png " alt="Figura 1" />
   <figcaption>Figura 5. Previsão do modelo.</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ Por último foi testado o modelo com dados de validação onde o mesmo retornou 
 
 
 <figure>
-  <img src="/assets/images/emprestimo6.png " alt="Figura 1" />
+  <img src="./Imagens/emprestimo6.png " alt="Figura 1" />
   <figcaption>Figura 6. Previsão do modelo com dados de validação.</figcaption>
 </figure>
 
